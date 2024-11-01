@@ -1,0 +1,4 @@
+
+* change the shortcode to be [schedule] instead [rotator] 
+* research more about using shortcodes in widgets.
+* in case it is not right to use shortcodes in widgets, create a special widget for this.
